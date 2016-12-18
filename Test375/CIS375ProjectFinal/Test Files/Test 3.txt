@@ -1,0 +1,5 @@
+Test3   id3   12/8/2016   reporter3
+12/7/2016   12/9/2016   Duplicate
+description3
+steps to reproduce3
+affected components3
